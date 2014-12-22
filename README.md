@@ -1,10 +1,11 @@
-En este tutorial se hace el control de luces a través de internet.
-Para la demostración del proyecto se usan leds en lugar de bombillas para que se 
+En este tutorial se hace el control de luces a travÃ©s de internet.
+Para la demostraciÃ³n del proyecto se usan leds en lugar de bombillas para que se 
 compruebe que el funcionamiento es correcto. 
-En el caso de querer usar bombillas, habría que conectar estas a un relé que les suministre
-tensión y desde el pin al que ahora está conectado el led en la placa, controlar 
-la posición del relé.
+En el caso de querer usar bombillas, habrÃ­a que conectar estas a un relÃ© que les suministre
+tensiÃ³n y desde el pin al que ahora estÃ¡ conectado el led en la placa, controlar 
+la posiciÃ³n del relÃ©.
+TambiÃ©n se usa un sensor de temperatura que nos muestra en la interfaz web la temperatura actual.
 
 
 
-Continúa en desarrollo ;)
+ContinÃºa en desarrollo ;)
